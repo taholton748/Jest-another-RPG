@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command line rpg",
+  "main": "(app.js)",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taholton748/Jest-another-RPG.git"
+  },
+  "keywords": [
+    "rpg"
+  ],
+  "author": "Tyler Holton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taholton748/Jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/taholton748/Jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
